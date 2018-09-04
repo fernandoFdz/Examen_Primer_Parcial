@@ -1,0 +1,9 @@
+C:\Users\Fernando\Desktop\1P_Granja_Fernandez\1P_Granja_Fernandez\bin\Debug\1P_Granja_Fernandez.exe.config
+C:\Users\Fernando\Desktop\1P_Granja_Fernandez\1P_Granja_Fernandez\bin\Debug\1P_Granja_Fernandez.exe
+C:\Users\Fernando\Desktop\1P_Granja_Fernandez\1P_Granja_Fernandez\bin\Debug\1P_Granja_Fernandez.pdb
+C:\Users\Fernando\Desktop\1P_Granja_Fernandez\1P_Granja_Fernandez\obj\Debug\1P_Granja_Fernandez.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\1P_Granja_Fernandez\1P_Granja_Fernandez\obj\Debug\_1P_Granja_Fernandez.Form1.resources
+C:\Users\Fernando\Desktop\1P_Granja_Fernandez\1P_Granja_Fernandez\obj\Debug\_1P_Granja_Fernandez.Properties.Resources.resources
+C:\Users\Fernando\Desktop\1P_Granja_Fernandez\1P_Granja_Fernandez\obj\Debug\1P_Granja_Fernandez.csproj.GenerateResource.Cache
+C:\Users\Fernando\Desktop\1P_Granja_Fernandez\1P_Granja_Fernandez\obj\Debug\1P_Granja_Fernandez.exe
+C:\Users\Fernando\Desktop\1P_Granja_Fernandez\1P_Granja_Fernandez\obj\Debug\1P_Granja_Fernandez.pdb
